@@ -1,0 +1,16 @@
+# 排除大于100MB的视频文件，避免Vercel部署失败
+public/portfolio/videos/medium-1.mp4
+public/portfolio/videos/medium-2.mp4
+public/portfolio/videos/medium-3.m4v
+public/portfolio/videos/medium-4.mp4
+public/portfolio/videos/medium-5.M4V
+public/portfolio/videos/medium-7.M4V
+public/portfolio/videos/medium-8.mp4
+public/portfolio/videos/w2.mp4
+public/portfolio/videos/w8.mp4
+public/portfolio/videos/w11.mp4
+public/portfolio/videos/w12.mp4
+public/portfolio/videos/w14.mp4
+public/portfolio/videos/w15.mp4
+public/portfolio/videos/w16.mp4
+public/portfolio/videos/w18.mp4
